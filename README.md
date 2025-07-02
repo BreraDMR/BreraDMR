@@ -67,3 +67,6 @@
 [![Email](https://img.shields.io/badge/Email-damir.brera.eb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damir.brera.eb@gmail.com)
 
 <div align="center"><sub>Open to Junior / Trainee opportunities — feel free to reach out.</sub></div>
+
+<!-- profile README -->
+
