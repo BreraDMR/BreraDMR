@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Damir+%F0%9F%91%8B;Junior+Computer+Systems+Engineer;Networks+%C2%B7+Embedded+%C2%B7+Backend+%C2%B7+DevOps;Based+in+Prague%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF;I+take+projects+from+%22it+works%22+to+%22reviewed+%26+tested%22+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Damir+%F0%9F%91%8B;Middle+Computer+Systems+Engineer;Networks+%C2%B7+Embedded+%C2%B7+Backend+%C2%B7+DevOps;Based+in+Prague%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF;I+take+projects+from+%22it+works%22+to+%22reviewed+%26+tested%22+%F0%9F%94%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 *Comfortable across the stack — Cisco networks, ESP32/AVR firmware, PHP & Python backends, and a Dockerized home lab.*
 *I like taking a project past "it compiles" — reviewing my own code, hardening it, and covering it with tests.*
 
-📍 Based in **Prague, Czechia 🇨🇿** — already here, no relocation needed · open to **on-site, hybrid or remote** · looking for **Junior / Trainee** roles
+📍 Based in **Prague, Czechia 🇨🇿** — already here, no relocation needed · open to **on-site, hybrid or remote** · open to **Middle** roles
 
 </div>
 
@@ -63,7 +63,7 @@
 
 [![Email](https://img.shields.io/badge/Email-damir.brera.eb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damir.brera.eb@gmail.com)
 
-<div align="center"><sub>Open to Junior / Trainee opportunities — feel free to reach out.</sub></div>
+<div align="center"><sub>Open to Middle-level opportunities — feel free to reach out.</sub></div>
 
 <!-- profile README -->
 
