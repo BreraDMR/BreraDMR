@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Damir+%F0%9F%91%8B;Junior+Computer+Systems+Engineer;Networks+%C2%B7+Embedded+%C2%B7+Backend+%C2%B7+DevOps;I+take+projects+from+%22it+works%22+to+%22reviewed+%26+tested%22+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Damir+%F0%9F%91%8B;Junior+Computer+Systems+Engineer;Networks+%C2%B7+Embedded+%C2%B7+Backend+%C2%B7+DevOps;Based+in+Prague%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF;I+take+projects+from+%22it+works%22+to+%22reviewed+%26+tested%22+%F0%9F%94%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 *Comfortable across the stack — Cisco networks, ESP32/AVR firmware, PHP & Python backends, and a Dockerized home lab.*
 *I like taking a project past "it compiles" — reviewing my own code, hardening it, and covering it with tests.*
 
-📍 Ukraine 🇺🇦 · open to **relocation to Czechia 🇨🇿** or **remote** · looking for **Junior / Trainee** roles
+📍 Based in **Prague, Czechia 🇨🇿** — already here, no relocation needed · open to **on-site, hybrid or remote** · looking for **Junior / Trainee** roles
 
 </div>
 
@@ -37,6 +37,8 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**EQF_L5**](https://github.com/BreraDMR/EQF_L5) | 🎓 Diploma — dual-core ESP32 air-quality monitor & controller: senses temp/humidity/gas, drives ventilation/heating relays, reports over BLE & MQTT | C++ · FreeRTOS · PlatformIO |
+| [**tabscreen**](https://github.com/BreraDMR/tabscreen) | 📱 Turns an old Android tablet into a second Mac display over Wi-Fi — 33 ms end-to-end, hardware encode/decode, no subscription | Swift · Java · ScreenCaptureKit |
+| [**pc-control-bot**](https://github.com/BreraDMR/pc-control-bot) | 🎛️ Telegram remote for a Windows PC — power, screenshots, webcam, Docker/WSL2 status, all button-driven and owner-only | Python · psutil · WSL2 |
 | [**homelab-wsl**](https://github.com/BreraDMR/homelab-wsl) | 🐳 My home lab as Docker Compose in WSL2 — Caddy reverse proxy, shared local Ollama, Telegram services, one-command bring-up | Docker · Caddy · Shell |
 | [**enterprise-network-cisco**](https://github.com/BreraDMR/enterprise-network-cisco) | 🌐 3-floor enterprise network design — VLAN/subnet plan, Cisco IOS configs, cost calculator (14 unit tests) | Cisco IOS · Python |
 | [**sphynx-cattery-website**](https://github.com/BreraDMR/sphynx-cattery-website) | 🔒 PHP/MySQL CRUD site, reviewed & rebuilt: fixed broken auth, closed CSRF/XSS holes, added a repository layer + PHPUnit tests | PHP · MySQL · JS |
