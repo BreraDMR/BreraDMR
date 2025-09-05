@@ -42,6 +42,9 @@
 | [**homelab-wsl**](https://github.com/BreraDMR/homelab-wsl) | 🐳 My home lab as Docker Compose in WSL2 — Caddy reverse proxy, shared local Ollama, Telegram services, one-command bring-up | Docker · Caddy · Shell |
 | [**enterprise-network-cisco**](https://github.com/BreraDMR/enterprise-network-cisco) | 🌐 3-floor enterprise network design — VLAN/subnet plan, Cisco IOS configs, cost calculator (14 unit tests) | Cisco IOS · Python |
 | [**sphynx-cattery-website**](https://github.com/BreraDMR/sphynx-cattery-website) | 🔒 PHP/MySQL CRUD site, reviewed & rebuilt: fixed broken auth, closed CSRF/XSS holes, added a repository layer + PHPUnit tests | PHP · MySQL · JS |
+| [**symfony-eshop**](https://github.com/BreraDMR/symfony-eshop) | ☕ Coffee & tea shop on Symfony 7.4 — catalogue, cart, checkout with a pluggable payment gateway, admin area, Redis cache, RabbitMQ mail, Elasticsearch search, CI | Symfony · PHP 8.4 · Doctrine |
+| [**home-asis**](https://github.com/BreraDMR/home-asis) | 🏠 An old Android phone as a home hub — cameras, a rolling timelapse, two TV remotes (IR + webOS over the network), watchers for power, internet and devices | Python · Termux · SQLite |
+| [**cigarette-counter-bot**](https://github.com/BreraDMR/cigarette-counter-bot) | 🚬 Habit tracker where fewer ranks higher — hour/weekday charts, real consumable costs in three currencies, a reverse leaderboard | Python · SQLite · matplotlib |
 | [**sphynx-cats-crm-bot**](https://github.com/BreraDMR/sphynx-cats-crm-bot) | 🤖 Telegram CRM bot for managing kitten records, with AI-assisted review | Python · Telegram API |
 | [**air-quality-monitor-atmega328p**](https://github.com/BreraDMR/air-quality-monitor-atmega328p) | 📟 AVR air-quality analyzer — DHT11 + MQ-2, calibration routine, EEPROM storage | C (AVR) · Python |
 
