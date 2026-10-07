@@ -20,8 +20,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,6 +37,12 @@
 ---
 
 ### 🚀 Featured projects
+
+#### 🚲 [NODRA](https://github.com/BreraDMR/nodra) — a bike-parts store with a real back office
+
+https://github.com/user-attachments/assets/3ff0f7c1-0f7f-449b-a455-23ee7c5c5ae9
+
+A portfolio store for Prague: a Next.js 16 storefront in Czech, German and English, and a Symfony 8 back office that runs every order by hand — confirm with the customer, buy from the supplier, hand over, record the money in an append-only ledger. PostgreSQL, 300 API integration tests. → [**BreraDMR/nodra**](https://github.com/BreraDMR/nodra)
 
 | Project | What it is | Stack |
 |---|---|---|
