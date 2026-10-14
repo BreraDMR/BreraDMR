@@ -45,13 +45,13 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/BreraDMR/nodra"><img src="assets/cards/nodra.png" alt="NODRA" width="100%"></a>
-<br><b><a href="https://github.com/BreraDMR/nodra">NODRA</a></b> ▶ <i>video inside</i><br>
+<br><b><a href="https://github.com/BreraDMR/nodra">NODRA</a></b> ▶ <i>video inside</i> · <a href="https://nodra-demo.vercel.app">live demo</a><br>
 Bike-parts store for Prague with a real back office: confirm with the customer, buy from the supplier, hand over, record the money.<br>
 <sub>Next.js 16 · Symfony 8 · PostgreSQL · 300 API tests</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/BreraDMR/symfony-eshop"><img src="assets/cards/symfony-eshop.png" alt="Beans & Leaves" width="100%"></a>
-<br><b><a href="https://github.com/BreraDMR/symfony-eshop">Beans & Leaves</a></b><br>
+<br><b><a href="https://github.com/BreraDMR/symfony-eshop">Beans & Leaves</a></b> · <a href="https://symfony-eshop-demo.vercel.app">live demo</a><br>
 Coffee & tea shop: catalogue, cart, checkout with a pluggable payment gateway, admin, Redis cache, RabbitMQ mail, Elasticsearch, CI.<br>
 <sub>Symfony 7.4 · PHP 8.4 · Doctrine</sub>
 </td>
@@ -59,7 +59,7 @@ Coffee & tea shop: catalogue, cart, checkout with a pluggable payment gateway, a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/BreraDMR/sphynx-cattery-website"><img src="assets/cards/sphynx-cattery-website.png" alt="Sphynx cattery website" width="100%"></a>
-<br><b><a href="https://github.com/BreraDMR/sphynx-cattery-website">Sphynx cattery website</a></b><br>
+<br><b><a href="https://github.com/BreraDMR/sphynx-cattery-website">Sphynx cattery website</a></b> · <a href="https://sphynx-cattery-demo.vercel.app">live demo</a><br>
 PHP/MySQL CRUD site, reviewed and rebuilt: fixed broken auth, closed CSRF/XSS holes, added a repository layer and PHPUnit tests.<br>
 <sub>PHP · MySQL · JS</sub>
 </td>
