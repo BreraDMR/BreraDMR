@@ -45,7 +45,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/BreraDMR/nodra"><img src="assets/cards/nodra.png" alt="NODRA" width="100%"></a>
-<br><b><a href="https://github.com/BreraDMR/nodra">NODRA</a></b> ▶ <i>video inside</i> · <a href="https://nodra-demo.vercel.app">live demo</a><br>
+<br><b><a href="https://github.com/BreraDMR/nodra">NODRA</a></b> ▶ <i>video inside</i> · <a href="https://nodra-bike.vercel.app">live demo</a><br>
 Bike-parts store for Prague with a real back office: confirm with the customer, buy from the supplier, hand over, record the money.<br>
 <sub>Next.js 16 · Symfony 8 · PostgreSQL · 300 API tests</sub>
 </td>
